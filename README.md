@@ -1,6 +1,6 @@
 # Monte Carlo Simulation of the Monty Hall Problem
 
-Two small simulators that empirically confirm the (famously counter-intuitive)
+Two simulators that empirically confirm the (famously counter-intuitive)
 answer to the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem):
 **always switch.**
 
